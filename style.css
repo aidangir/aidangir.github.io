@@ -18,12 +18,6 @@ html {
   padding: 8px;
 }
 
-.buttonhover:hover {
-  -webkit-transform: scale(1.1);
-  transform: scale(1.1);
-  transition: 03s;
-  background-color: 280137; 
-}
 
 .buttonhover {
   background-color: #008CBA;
