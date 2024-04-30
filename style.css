@@ -25,18 +25,4 @@ html {
   background-color: 280137; 
 }
 
-.button:hover {
-  animation: bubble 0.4s ease-out;
-}
 
-@keyframes bubble {
-  0% {
-    transform: scale(1);
-  }
-  50% {
-    transform: scale(1.2);
-  }
-  100% {
-    transform: scale(1);
-  }
-}
